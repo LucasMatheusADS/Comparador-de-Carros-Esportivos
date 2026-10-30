@@ -1,0 +1,27 @@
+div h1{
+  text-align: center;
+  font-size: 45px;
+  background: black;
+  color: white;
+  height: 55px;
+}
+
+div h2 {
+  text-align: center;
+  background: black;
+  color: white;
+  margin: 50px;
+}
+
+body {
+  background: grey;
+}
+
+span {
+  margin: 50px;
+  width: 50px;
+  border: 20px;
+  padding: 5px;
+  background: white;
+  color: #222;
+}
